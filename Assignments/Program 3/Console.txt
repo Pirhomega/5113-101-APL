@@ -1,0 +1,88 @@
+Corporation Sales Spreadsheet
+-----------------------------
+
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: X
+Division 2: X
+Division 3: X
+Division 4: X
+Division 5: X
+Division 6: X
+Please input division number (1 - 6): 1
+Please input all four quarterly sales for division 1, pressing Enter after each
+entry:
+5000.00
+8000.00
+6363.00
+7000.00
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: O
+Division 2: X
+Division 3: X
+Division 4: X
+Division 5: X
+Division 6: X
+Please input division number (1 - 6): 2
+Please input all four quarterly sales for division 2, pressing Enter after each
+entry:
+8000.99
+9000.10
+10000.11
+10011.99
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: O
+Division 2: O
+Division 3: X
+Division 4: X
+Division 5: X
+Division 6: X
+Please input division number (1 - 6): 3
+Please input all four quarterly sales for division 3, pressing Enter after each
+entry:
+7400.00
+9900.99
+9000.99
+8880.33
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: O
+Division 2: O
+Division 3: O
+Division 4: X
+Division 5: X
+Division 6: X
+Please input division number (1 - 6): 4
+Please input all four quarterly sales for division 4, pressing Enter after each
+entry:
+7990.99
+8800.88
+11000.99
+10000.00
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: O
+Division 2: O
+Division 3: O
+Division 4: O
+Division 5: X
+Division 6: X
+Please input division number (1 - 6): 5
+Please input all four quarterly sales for division 5, pressing Enter after each
+entry:
+9999.99
+4000.99
+5656.56
+7989.98
+Divisions status ('O' = has values stored; 'X' = no values stored):
+Division 1: O
+Division 2: O
+Division 3: O
+Division 4: O
+Division 5: O
+Division 6: X
+Please input division number (1 - 6): 6
+Please input all four quarterly sales for division 6, pressing Enter after each
+entry:
+2014.31
+9999.01
+7589
+666
+Press any key to continue . . .
